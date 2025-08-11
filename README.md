@@ -1,4 +1,4 @@
-# 🏢 Employee Turnover Analytics – Machine Learning Project
+# Employee Turnover Analytics – Machine Learning Project
 
  Overview
 Employee turnover is a major challenge for businesses, leading to loss of talent and increased recruitment costs.  
